@@ -176,3 +176,22 @@
   .offer-btn{
       padding: 14px 32px;
   }
+  
+/* Instagram Section Style */
+.instagram{
+    margin: 90px 0px;
+  }
+  .instagram-img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  .instagram-image-box{
+    width: 246px;
+    height: 284px;
+  }
+  .instagram-image-box img{
+    width: 100%;
+  }
